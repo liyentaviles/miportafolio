@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    border-radius: 100%;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.amarillo{
+    display: flex;
+    height: 10em;
+    background-color: yellow;
+}
+.azul{
+    display: flex;
+    height: 10em;
+    background-color: blue;
+}
+.rojo{
+    display: flex;
+    height: 10em;
+    background-color: red;
+}
+.rosado{
+    display: flex;
+    height: 10em;
+    background-color: pink;
+}
+.verde{
+    display: flex;
+    height: 10em;
+    background-color: green;
+}
+.naranja{
+    display: flex;
+    height: 10em;
+    background-color: orange; 
+}
+.violeta{
+    display: flex;
+    height: 10em;
+    background-color: violet;
+}
+.cafe{
+    display: flex;
+    height: 10em;
+    background-color: brown;
+}
